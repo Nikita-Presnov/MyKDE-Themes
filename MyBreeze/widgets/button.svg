@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="button.svg"
+   id="svg414"
+   version="1.0"
+   height="212"
+   width="220"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(-0.99999976,0,0,0.43749963,224.99997,102.25002)"
+     id="toolbutton-focus-right">
+    <path
+       inkscape:connector-curvature="0"
+       id="path120-68-3"
+       d="M 54.999975,19.99988 V 51.999855 H 50.499993 46.00001 V 19.99988 h 4.499983 z"
+       style="opacity:0.2;fill:#ffffff;stroke-width:1.5" />
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(0.99999879,0,0,0.99999879,135.00002,-916.35876)"
+     id="toolbutton-focus-bottomright">
+    <g
+       style="stroke-width:1.25"
+       id="g129-4-6"
+       transform="matrix(-1,0,0,1,44,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1145-3-7"
+         d="m 8.9999586,48.999976 v 4.499928 4.499929 C 4.0139829,57.999833 2.5917634e-6,53.985897 2.5917634e-6,48.999976 H 4.4999805 Z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:2.24998" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(1.000002,0,0,0.43749963,98.999883,102.25002)"
+     id="toolbutton-focus-left">
+    <path
+       inkscape:connector-curvature="0"
+       id="path132-9-5"
+       d="m 46.000046,19.999934 v 31.999988 h 4.49997 4.499969 V 19.999934 h -4.499969 z"
+       style="opacity:0.2;fill:#ffffff;stroke-width:1.49999" />
+  </g>
+  <rect
+     y="144.99998"
+     x="-119"
+     height="0.2"
+     width="1.9999999"
+     id="toolbutton-focus-hint-left-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223605"
+     transform="rotate(-90)" />
+  <g
+     transform="matrix(0.43749906,0,0,0.71348883,152.81252,-616.56615)"
+     id="toolbutton-focus-bottom"
+     style="fill:#565656;stroke-width:1.32361">
+    <g
+       id="g141-0-3"
+       transform="translate(-48,994.36)"
+       style="stroke-width:1.32361">
+      <path
+         inkscape:connector-curvature="0"
+         id="path137-6-5"
+         d="m 53.000042,46.393824 v 6.30699 6.306989 h 31.999981 v -6.306989 -6.30699 z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.77579" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(1.200008,0,0,1.200008,146.39994,-1125.6404)"
+     id="toolbutton-focus-bottomleft">
+    <g
+       style="stroke-width:1.25"
+       id="g148-9-6"
+       transform="translate(-2,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1147-26-2"
+         d="m 0.8333612,49.666692 c 0,4.154946 3.3449831,7.4999 7.499962,7.4999 v -3.749949 -3.749951 h -3.749981 z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.87499" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(0.43749906,0,0,0.99999718,152.81252,-904.35711)"
+     id="toolbutton-focus-top">
+    <g
+       style="stroke-width:1.11803"
+       id="g157-4-9"
+       transform="translate(-48,988.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path151-95-1"
+         d="m 52.99996,17.00002 v 4.499962 4.499961 H 84.999989 V 21.499982 17.00002 Z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.49999" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:0.750013"
+     transform="matrix(1.6666744,0,0,1.6666744,144.99997,-1577.9412)"
+     id="toolbutton-focus-topleft">
+    <g
+       style="stroke-width:0.750013"
+       id="g166-8-2"
+       transform="translate(-2,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1149-71-7"
+         d="m 7.3999541,14.000018 c -2.99156,0 -5.3999524,2.408392 -5.3999524,5.399936 h 2.6999762 2.6999762 v -2.699968 z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.35001" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(1.0000017,0,0,1.0000017,134.99994,-904.3617)"
+     id="toolbutton-focus-topright">
+    <g
+       style="stroke-width:1.25"
+       id="g175-2-0"
+       transform="matrix(-1,0,0,1,44,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1151-7-9"
+         d="m 8.9999745,11.999935 v 4.499959 4.49996 H 4.4999878 8.7993108e-7 C 8.7993108e-7,16.013909 4.0139891,11.999935 8.9999745,11.999935 Z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:2.24999" />
+    </g>
+  </g>
+  <path
+     d="M 168.99998,125 V 111.00001 H 155 V 125 Z"
+     id="toolbutton-focus-center"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.437499"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223605"
+     id="toolbutton-focus-hint-top-margin"
+     width="1.9999999"
+     height="0.2"
+     x="160.99998"
+     y="101" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223605"
+     id="toolbutton-focus-hint-right-margin"
+     width="2"
+     height="0.2"
+     x="-119"
+     y="178.79999" />
+  <rect
+     y="134.8"
+     x="161"
+     height="0.2"
+     width="1.9999999"
+     id="toolbutton-focus-hint-bottom-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607" />
+  <metadata
+     id="metadata418">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:current-layer="svg414"
+     inkscape:window-maximized="1"
+     inkscape:window-y="360"
+     inkscape:window-x="2636"
+     inkscape:cy="166.3785"
+     inkscape:cx="69.170888"
+     inkscape:zoom="2.4432244"
+     showgrid="true"
+     id="namedview416"
+     inkscape:window-height="1043"
+     inkscape:window-width="1844"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#a8a8a8"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       id="grid1331"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs18">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="142"
+       x2="129"
+       y1="168"
+       x1="129"
+       id="linearGradient1133-3"
+       xlink:href="#normal-gradient"
+       inkscape:collect="always"
+       gradientTransform="translate(62,-76)" />
+    <linearGradient
+       id="normal-gradient"
+       inkscape:collect="always">
+      <stop
+         id="stop1138"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.02745098" />
+      <stop
+         id="stop1140"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.03" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,-176,94)"
+       inkscape:collect="always"
+       xlink:href="#normal-gradient"
+       id="linearGradient1233-6"
+       x1="177"
+       y1="64"
+       x2="177"
+       y2="90"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-176,-36)"
+       inkscape:collect="always"
+       xlink:href="#normal-gradient"
+       id="linearGradient1148-9"
+       x1="191"
+       y1="66"
+       x2="191"
+       y2="40.000019"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,-176,94)"
+       gradientUnits="userSpaceOnUse"
+       y2="64"
+       x2="177"
+       y1="90"
+       x1="177"
+       id="linearGradient1233"
+       xlink:href="#normal-gradient"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-176,-94)"
+       gradientUnits="userSpaceOnUse"
+       y2="64"
+       x2="191"
+       y1="90"
+       x1="191"
+       id="linearGradient1148"
+       xlink:href="#normal-gradient"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="rotate(-90,71,135)"
+       inkscape:collect="always"
+       xlink:href="#normal-gradient"
+       id="linearGradient1233-9"
+       x1="177"
+       y1="90"
+       x2="177"
+       y2="64"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.09090909,0,0,11,11.63636,-700)"
+       inkscape:collect="always"
+       xlink:href="#normal-gradient"
+       id="linearGradient1148-3"
+       x1="191.00005"
+       y1="66.181816"
+       x2="191.00005"
+       y2="63.81818"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="63.81818"
+       x2="191.00005"
+       y1="66.181816"
+       x1="191.00005"
+       id="linearGradient1148-3-3"
+       xlink:href="#normal-gradient"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.09090909,0,0,11,-46.36364,-700)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#normal-gradient"
+       id="linearGradient2798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-176,94)"
+       x1="177"
+       y1="64"
+       x2="177"
+       y2="90" />
+  </defs>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(-0.99999971,0,0,0.43749947,224.99997,57.25002)"
+     id="toolbutton-hover-right">
+    <path
+       inkscape:connector-curvature="0"
+       id="path120-68"
+       d="M 54.999974,19.999961 V 51.999936 H 50.499991 46.000008 V 19.999961 h 4.499983 z"
+       style="opacity:0.2;fill:#ffffff;stroke-width:1.5" />
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(0.9999988,0,0,0.9999988,145.00003,-951.35877)"
+     id="toolbutton-hover-bottomright">
+    <g
+       style="stroke-width:1.25"
+       id="g129-4"
+       transform="matrix(-1,0,0,1,33.999975,983.36003)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1145-3"
+         d="m 8.999966,49.000046 v 4.499947 4.499944 C 4.0139875,57.999937 4.6397216e-6,53.985986 4.6397216e-6,49.000046 H 4.4999854 Z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:2.24998" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(1.000002,0,0,0.43749947,98.999895,57.25002)"
+     id="toolbutton-hover-left">
+    <path
+       inkscape:connector-curvature="0"
+       id="path132-9"
+       d="m 46.000056,19.999971 v 31.999988 h 4.499969 4.49997 V 19.999971 h -4.49997 z"
+       style="opacity:0.2;fill:#ffffff;stroke-width:1.49999" />
+  </g>
+  <g
+     transform="matrix(0.43749947,0,0,0.7134888,152.81252,-661.56613)"
+     id="toolbutton-hover-bottom"
+     style="fill:#565656;stroke-width:1.32361">
+    <g
+       id="g141-0"
+       transform="translate(-48,994.36)"
+       style="stroke-width:1.32361">
+      <path
+         inkscape:connector-curvature="0"
+         id="path137-6"
+         d="m 53.000008,46.393812 v 6.307013 6.307015 h 32.000001 v -6.307015 -6.307013 z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.77579" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(1.200008,0,0,1.200008,146.39996,-1170.6404)"
+     id="toolbutton-hover-bottomleft">
+    <g
+       style="stroke-width:1.25"
+       id="g148-9"
+       transform="translate(-2,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1147-26"
+         d="m 0.83334303,49.666706 c 0,4.154963 3.34498527,7.49993 7.49996667,7.49993 V 53.416671 49.666706 H 4.5833264 Z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.87499" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(0.43749947,0,0,0.99999716,152.81252,-949.35711)"
+     id="toolbutton-hover-top">
+    <g
+       style="stroke-width:1.11803"
+       id="g157-4"
+       transform="translate(-48,988.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path151-95"
+         d="m 52.99996,17.000004 v 4.499953 4.499952 h 32.000029 v -4.499952 -4.499953 z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.49999" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:0.750013"
+     transform="matrix(1.6666744,0,0,1.6666744,144.99997,-1622.9412)"
+     id="toolbutton-hover-topleft">
+    <g
+       style="stroke-width:0.750013"
+       id="g166-8"
+       transform="translate(-2,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1149-71"
+         d="m 7.3999541,14.000028 c -2.99156,0 -5.3999524,2.408387 -5.3999524,5.399925 h 2.6999762 2.6999762 v -2.699962 z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:1.35001" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(1.0000017,0,0,1.0000017,134.99993,-949.36169)"
+     id="toolbutton-hover-topright">
+    <g
+       style="stroke-width:1.25"
+       id="g175-2"
+       transform="matrix(-1,0,0,1,44,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1151-7"
+         d="m 8.9999825,11.999978 v 4.49995 4.499952 H 4.4999958 8.8798399e-6 C 8.8798399e-6,16.013945 4.0139971,11.999978 8.9999825,11.999978 Z"
+         style="opacity:0.2;fill:#ffffff;stroke-width:2.24998" />
+    </g>
+  </g>
+  <path
+     d="M 168.99999,79.99998 V 66.000003 H 155.00002 V 79.99998 Z"
+     id="toolbutton-hover-center"
+     style="opacity:0.2;fill:#ffffff;stroke-width:0.4375"
+     inkscape:connector-curvature="0" />
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(-1.000001,0,0,0.43749716,225.00006,148.25011)"
+     id="toolbutton-pressed-right">
+    <path
+       inkscape:connector-curvature="0"
+       id="path120-68-2"
+       d="M 54.99998,19.999905 V 51.99988 H 50.499997 46.000014 V 19.999905 h 4.499983 z"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.5" />
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(0.99999886,0,0,0.99999886,135.00004,-870.35879)"
+     id="toolbutton-pressed-bottomright">
+    <g
+       style="stroke-width:1.25"
+       id="g129-4-1"
+       transform="matrix(-1,0,0,1,44,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1145-3-0"
+         d="m 8.9999712,49.00012 v 4.499934 4.499935 C 4.0139884,57.999989 2.1278414e-6,53.986047 2.1278414e-6,49.00012 H 4.4999867 Z"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:2.24998" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(1.0000016,0,0,0.43749716,98.999918,148.25011)"
+     id="toolbutton-pressed-left">
+    <path
+       inkscape:connector-curvature="0"
+       id="path132-9-1"
+       d="m 46.000041,20.000004 v 31.999989 h 4.49997 4.49997 V 20.000004 h -4.49997 z"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.49999" />
+  </g>
+  <g
+     transform="matrix(0.43749999,0,0,0.71349122,152.8125,-570.56865)"
+     id="toolbutton-pressed-bottom"
+     style="fill:#565656;stroke-width:1.32361">
+    <g
+       id="g141-0-9"
+       transform="translate(-48,994.36)"
+       style="stroke-width:1.32361">
+      <path
+         inkscape:connector-curvature="0"
+         id="path137-6-4"
+         d="m 52.999951,46.393983 v 6.306998 6.306999 H 84.99998 v -6.306999 -6.306998 z"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.77579" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(1.0000014,0,0,1.0000014,146.99999,-870.36149)"
+     id="toolbutton-pressed-bottomleft">
+    <g
+       style="stroke-width:1.25"
+       id="g148-9-0"
+       transform="translate(-2,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1147-26-9"
+         d="m -1.6431056e-5,49.000145 c 0,4.98593 4.013976531056,8.999873 8.999947131056,8.999873 V 53.500082 49.000145 H 4.4999571 Z"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:2.24998" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.11803"
+     transform="matrix(0.43749999,0,0,0.99998774,152.8125,-858.34776)"
+     id="toolbutton-pressed-top">
+    <g
+       style="stroke-width:1.11803"
+       id="g157-4-7"
+       transform="translate(-48,988.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path151-95-7"
+         d="m 52.99995,17.000087 v 4.499846 4.499847 h 32.000029 v -4.499847 -4.499846 z"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.49998" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:0.750013"
+     transform="matrix(1.6666678,0,0,1.6666678,145,-1531.9344)"
+     id="toolbutton-pressed-topleft">
+    <g
+       style="stroke-width:0.750013"
+       id="g166-8-1"
+       transform="translate(-2,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1149-71-5"
+         d="m 7.3999458,14.000066 c -2.9915602,0 -5.3999524,2.408331 -5.3999524,5.399798 h 2.6999762 2.6999762 v -2.699899 z"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:1.34999" />
+    </g>
+  </g>
+  <g
+     style="stroke-width:1.25"
+     transform="matrix(1.0000046,0,0,1.0000046,134.99983,-858.36457)"
+     id="toolbutton-pressed-topright">
+    <g
+       style="stroke-width:1.25"
+       id="g175-2-7"
+       transform="matrix(-1,0,0,1,44,993.36)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1151-7-7"
+         d="m 8.999991,12.000135 v 4.499845 4.499845 H 4.5000043 1.74e-5 c 0,-4.985817 4.0139883,-8.99969 8.9999736,-8.99969 z"
+         style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:2.24995" />
+    </g>
+  </g>
+  <path
+     d="m 169,170.99992 v -13.99996 h -13.99999 v 13.99996 z"
+     id="toolbutton-pressed-center"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.437499"
+     inkscape:connector-curvature="0" />
+  <rect
+     id="toolbutton-hover-hint-top-margin"
+     x="160.99998"
+     y="56.000019"
+     width="2"
+     height="4"
+     fill="#ff00ff"
+     fill-rule="evenodd"
+     style="stroke-width:0.999996" />
+  <rect
+     id="toolbutton-hover-hint-bottom-margin"
+     x="160.99998"
+     y="85.999992"
+     width="2"
+     height="4"
+     fill="#ff00ff"
+     fill-rule="evenodd"
+     style="stroke-width:0.999996" />
+  <rect
+     id="toolbutton-hover-hint-right-margin"
+     x="175"
+     y="71.999992"
+     width="4"
+     height="2"
+     fill="#ff00ff"
+     fill-rule="evenodd"
+     style="stroke-width:0.999996" />
+  <rect
+     style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999996"
+     id="toolbutton-hover-hint-left-margin"
+     width="4"
+     height="2"
+     x="145"
+     y="71.999992" />
+  <path
+     style="stroke-width:0.999996"
+     id="toolbutton-pressed-hint-top-margin"
+     d="m 161,146.99999 h 2 v 4 h -2 z"
+     fill="#ff00ff"
+     fill-rule="evenodd" />
+  <path
+     style="stroke-width:0.999996"
+     id="toolbutton-pressed-hint-bottom-margin"
+     d="m 161,176.99999 h 2 v 4 h -2 z"
+     fill="#ff00ff"
+     fill-rule="evenodd" />
+  <path
+     style="stroke-width:0.999996"
+     id="toolbutton-pressed-hint-left-margin"
+     d="m 145,163.00011 h 4 v 2 h -4 z"
+     fill="#ff00ff"
+     fill-rule="evenodd" />
+  <path
+     style="stroke-width:0.999996"
+     id="toolbutton-pressed-hint-right-margin"
+     d="m 175,163.00011 h 4 v 2 h -4 z"
+     fill="#ff00ff"
+     fill-rule="evenodd" />
+  <path
+     id="mask-normal-center"
+     d="M 27,28 H 49 V 50 H 27 Z"
+     fill-rule="evenodd" />
+  <path
+     id="mask-normal-bottomright"
+     d="m 49,50 v 6 c 3.324,0 6,-2.676 6,-6 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-normal-bottom"
+     d="m 27,50 v 6 h 22 v -6 z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-normal-bottomleft"
+     d="m 21,50 c 0,3.324 2.676,6 6,6 v -6 h -3 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-normal-right"
+     d="m 49,28 v 22 h 6 V 28 Z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-normal-left"
+     d="m 21,28 v 22 h 6 V 28 Z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-normal-topright"
+     d="m 49,22 v 6 h 6 c 0,-3.324 -2.676,-6 -6,-6 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-normal-top"
+     d="m 27,22 v 6 h 22 v -6 z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-normal-topleft"
+     d="m 27,22 c -3.324,0 -6,2.676 -6,6 h 6 v -3 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-focus-background-center"
+     d="m 27,104 h 22 v 22 H 27 Z"
+     fill-rule="evenodd" />
+  <path
+     id="mask-focus-background-bottomright"
+     d="m 49,126 v 6 c 3.324,0 6,-2.676 6,-6 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-focus-background-bottom"
+     d="m 27,126 v 6 h 22 v -6 z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-focus-background-bottomleft"
+     d="m 21,126 c 0,3.324 2.676,6 6,6 v -6 h -3 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-focus-background-right"
+     d="m 49,104 v 22 h 6 v -22 z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-focus-background-left"
+     d="m 21,104 v 22 h 6 v -22 z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-focus-background-topright"
+     d="m 49,98 v 6 h 6 c 0,-3.324 -2.676,-6 -6,-6 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <path
+     id="mask-focus-background-top"
+     d="m 27,98 v 6 h 22 v -6 z"
+     fill-rule="evenodd"
+     style="stroke-width:1.73205" />
+  <path
+     id="mask-focus-background-topleft"
+     d="m 27,98 c -3.324,0 -6,2.676 -6,6 h 6 v -3 z"
+     fill-rule="evenodd"
+     style="stroke-width:3" />
+  <g
+     id="normal-center"
+     style="opacity:0.5"
+     transform="translate(-82.999999,-44)">
+    <path
+       id="path34"
+       fill-rule="evenodd"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 180,68 h 22 v 22 h -22 z" />
+    <rect
+       y="68"
+       x="180"
+       height="22"
+       width="22"
+       id="c"
+       style="fill:url(#linearGradient1133-3);fill-opacity:1;fill-rule:evenodd" />
+  </g>
+  <g
+     transform="translate(91.000001,22)"
+     id="normal-bottomleft"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       d="m 175,94 c 0,0.554 0.446,1 1,1 v -1 z"
+       transform="translate(-174,-66)"
+       id="rect833-7-3"
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonBackground" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915"
+       fill="currentColor"
+       opacity="0.3" />
+    <path
+       id="bl"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       style="fill:url(#linearGradient2798);fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(93.000001,22)"
+     id="normal-bottom"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-29 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2"
+       fill="currentColor"
+       opacity="0.3" />
+    <rect
+       style="fill:url(#linearGradient1148-9);fill-opacity:1;fill-rule:evenodd"
+       id="b"
+       width="22"
+       height="2"
+       x="4"
+       y="28" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,91.000001,48)"
+     id="normal-topleft"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       d="m 176,63 c -0.554,0 -1,0.446 -1,1 h 1 z"
+       transform="matrix(1,0,0,-1,-174,92)"
+       id="rect833-7-3-1"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       class="ColorScheme-ButtonBackground" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-2"
+       fill="currentColor"
+       opacity="0.3" />
+    <path
+       style="fill:url(#linearGradient1233);fill-opacity:1"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="tl"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,93.000001,48)"
+     id="normal-top"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-29 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-0"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-9"
+       fill="currentColor"
+       opacity="0.3" />
+    <rect
+       transform="scale(1,-1)"
+       y="-30"
+       x="4"
+       height="2"
+       width="22"
+       id="t"
+       style="fill:url(#linearGradient1148);fill-opacity:1;fill-rule:evenodd" />
+  </g>
+  <g
+     transform="matrix(0,1,1,0,95.000001,18)"
+     id="normal-topright"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       d="m 206,63 v 1 h 1 c 0,-0.554 -0.446,-1 -1,-1 z"
+       transform="matrix(0,1,1,0,-62,-178)"
+       id="rect833-7-3-6"
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonBackground" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-0"
+       fill="currentColor"
+       opacity="0.3" />
+    <path
+       id="tr"
+       d="M 2,30 C 0.892,30 0,29.108 0,28 h 2 z"
+       style="fill:url(#linearGradient1233-9);fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(0,1,1,0,95.000001,20)"
+     id="normal-right"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-29 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-26"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-1"
+       fill="currentColor"
+       opacity="0.3" />
+    <rect
+       transform="matrix(0,1,1,0,0,0)"
+       style="fill:url(#linearGradient1148-3);fill-opacity:1;fill-rule:evenodd"
+       id="r"
+       width="2"
+       height="22"
+       x="28"
+       y="4" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,125,22)"
+     id="normal-bottomright"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       d="m 206,94 v 1 c 0.554,0 1,-0.446 1,-1 z"
+       transform="matrix(-1,0,0,1,208,-66)"
+       id="rect833-7-3-7"
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonBackground" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-9"
+       fill="currentColor"
+       opacity="0.3" />
+    <path
+       style="fill:url(#linearGradient1233-6);fill-opacity:1"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="br"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="rotate(90,50.500001,70.5)"
+     id="normal-left"
+     fill-rule="evenodd"
+     style="opacity:0.5">
+    <path
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-29 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-26-0"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-1-2"
+       fill="currentColor"
+       opacity="0.3" />
+    <rect
+       transform="rotate(-90)"
+       y="4"
+       x="-30"
+       height="22"
+       width="2"
+       id="l"
+       style="fill:url(#linearGradient1148-3-3);fill-opacity:1;fill-rule:evenodd" />
+  </g>
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 107,18 h 2 v 6 h -2 z"
+     id="normal-hint-top-margin"
+     style="stroke-width:0.999996" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 107,46 h 2 v 6 h -2 z"
+     id="normal-hint-bottom-margin"
+     style="stroke-width:0.999996" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 91.000001,34 h 6 v 2 h -6 z"
+     id="normal-hint-left-margin"
+     style="stroke-width:0.999996" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 119,34 h 6 v 2 h -6 z"
+     id="normal-hint-right-margin"
+     style="stroke-width:0.999996" />
+  <g
+     fill-rule="evenodd"
+     transform="translate(91.000001,60)"
+     id="hover-bottomleft">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-55" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-4" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="translate(93.000001,60)"
+     id="hover-bottom">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-5" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-6" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(1,0,0,-1,91.000001,86)"
+     id="hover-topleft">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-1-3" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-2-7" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(1,0,0,-1,93.000001,86)"
+     id="hover-top">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-0-5" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-9-2" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(0,1,1,0,95.000001,56)"
+     id="hover-topright">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-6-4" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-0-7" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(0,1,1,0,95.000001,58)"
+     id="hover-right">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-26-4" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-1-3" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(-1,0,0,1,125,60)"
+     id="hover-bottomright">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-7-7" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-9-8" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="rotate(90,31.500001,89.5)"
+     id="hover-left">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-26-0-8" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-1-2-8" />
+  </g>
+  <path
+     opacity="0.00100002"
+     fill-rule="evenodd"
+     fill-opacity="0.00392199"
+     d="M 97.000001,62 H 119 V 84 H 97.000001 Z"
+     id="hover-center" />
+  <rect
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     height="0.001"
+     width="2"
+     y="56"
+     x="107"
+     id="hover-hint-top-margin" />
+  <rect
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     height="0.001"
+     width="2"
+     y="89"
+     x="107"
+     id="hover-hint-bottom-margin" />
+  <rect
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     height="2"
+     width="0.001"
+     y="72"
+     x="123.99999"
+     id="hover-hint-right-margin" />
+  <rect
+     style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+     id="hover-hint-left-margin"
+     width="0.001"
+     height="2"
+     x="91"
+     y="72" />
+  <g
+     fill-rule="evenodd"
+     id="focus-bottom"
+     transform="translate(-83,-35.000002)">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -202,-170 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-5-2-9" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m -202,-170 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-6-6-9" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 180,170 v 1 h 22 v -1 z"
+       id="path1565-4-90-2" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     id="focus-bottomleft"
+     transform="translate(-85,-35.000002)">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-55-6-7" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -1 c -0.554,0 -1,-0.446 -1,-1 z"
+       id="path915-4-8-2" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v 1 c -1.662,0 -3,-1.338 -3,-3 z"
+       id="path1561-6-4-7-2" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(1,0,0,-1,-85,271)"
+     id="focus-topleft">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-55-6-7-6" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -1 c -0.554,0 -1,-0.446 -1,-1 z"
+       id="path915-4-8-2-0" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v 1 c -1.662,0 -3,-1.338 -3,-3 z"
+       id="path1561-6-4-7-2-7" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="rotate(180,150.5,135.49999)"
+     id="focus-topright">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-55-6-7-1" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -1 c -0.554,0 -1,-0.446 -1,-1 z"
+       id="path915-4-8-2-01" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v 1 c -1.662,0 -3,-1.338 -3,-3 z"
+       id="path1561-6-4-7-2-3" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(-1,0,0,1,301,-35.000002)"
+     id="focus-bottomright">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-55-6-7-7" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v -1 c -0.554,0 -1,-0.446 -1,-1 z"
+       id="path915-4-8-2-2" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 176,168 c 0,1.108 0.892,2 2,2 v 1 c -1.662,0 -3,-1.338 -3,-3 z"
+       id="path1561-6-4-7-2-6" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(1,0,0,-1,-83,271)"
+     id="focus-top">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -202,-170 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-5-2-9-5" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m -202,-170 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-6-6-9-2" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 180,170 v 1 h 22 v -1 z"
+       id="path1565-4-90-2-0" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="rotate(-90,131.99999,176.99999)"
+     id="focus-right">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -202,-170 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-5-2-9-0" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m -202,-170 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-6-6-9-9" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 180,170 v 1 h 22 v -1 z"
+       id="path1565-4-90-2-9" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(0,-1,-1,0,261,309)"
+     id="focus-left">
+    <path
+       opacity="0.00100002"
+       fill-opacity="0.00392199"
+       fill="currentColor"
+       class="ColorScheme-ButtonBackground"
+       d="m -202,-170 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-5-2-9-0-1" />
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m -202,-170 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-6-6-9-9-0" />
+    <path
+       opacity="0.2"
+       fill="currentColor"
+       class="ColorScheme-ButtonFocus"
+       d="m 180,170 v 1 h 22 v -1 z"
+       id="path1565-4-90-2-9-3" />
+  </g>
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 107,99.999998 h 2 V 101 h -2 z"
+     id="focus-hint-top-margin" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 107,135 h 2 v 1 h -2 z"
+     id="focus-hint-bottom-margin" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 90,117 h 1 v 2 h -1 z"
+     id="focus-hint-left-margin" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 125,117 h 1 v 2 h -1 z"
+     id="focus-hint-right-margin" />
+  <path
+     id="focus-center"
+     d="m 97,107 h 22 v 22 H 97 Z"
+     fill-opacity="0.00392199"
+     fill-rule="evenodd"
+     opacity="0.00100002" />
+  <path
+     fill-rule="evenodd"
+     fill="currentColor"
+     class="ColorScheme-ButtonHover"
+     d="m 97,145 h 22 v 22 H 97 Z"
+     id="pressed-center"
+     style="color:#93cee9;stop-color:#93cee9" />
+  <g
+     fill-rule="evenodd"
+     transform="translate(91,143)"
+     id="pressed-bottomleft">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-55-1" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-4-7" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="translate(93,143)"
+     id="pressed-bottom">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-5-1" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-6-1" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(1,0,0,-1,91,169)"
+     id="pressed-topleft">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-1-3-9" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-2-7-7" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(1,0,0,-1,93,169)"
+     id="pressed-top">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-0-5-6" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-9-2-7" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(0,1,1,0,95,139)"
+     id="pressed-topright">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-6-4-6" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-0-7-5" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(0,1,1,0,95,141)"
+     id="pressed-right">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-26-4-3" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-1-3-9" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="matrix(-1,0,0,1,125,143)"
+     id="pressed-bottomright">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
+       id="rect833-7-3-7-7-8" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
+       id="path915-9-8-1" />
+  </g>
+  <g
+     fill-rule="evenodd"
+     transform="rotate(90,-9.999999,131)"
+     id="pressed-left">
+    <path
+       fill="currentColor"
+       class="ColorScheme-ButtonHover"
+       d="m -26,-30 h 22 v 2 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-26-0-8-9" />
+    <path
+       opacity="0.3"
+       fill="currentColor"
+       class="ColorScheme-ButtonText"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       transform="scale(-1)"
+       id="rect829-6-2-1-2-8-3" />
+  </g>
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 107,139 h 2 v 6 h -2 z"
+     id="pressed-hint-top-margin"
+     style="stroke-width:0.999996" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 107,167 h 2 v 6 h -2 z"
+     id="pressed-hint-bottom-margin"
+     style="stroke-width:0.999996" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 91,155 h 6 v 2 h -6 z"
+     id="pressed-hint-left-margin"
+     style="stroke-width:0.999996" />
+  <path
+     fill-rule="evenodd"
+     fill="#ff00ff"
+     d="m 119,155 h 6 v 2 h -6 z"
+     id="pressed-hint-right-margin"
+     style="stroke-width:0.999996" />
+</svg>

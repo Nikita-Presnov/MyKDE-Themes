@@ -1,0 +1,46 @@
+[Description]
+Skin=MyYakuakeMenu
+Author=Nikita
+Email=
+Icon=/icon.png
+
+[Border]
+red=107
+green=105
+blue=104
+width=1
+
+[Text]
+x=5
+y=20
+red=127
+green=127
+blue=127
+text=Drop-Down Terminal
+
+[Background]
+back_image=/title/back.svg
+left_corner=/title/left.svg
+right_corner=/title/right.svg
+
+
+[FocusButton]
+x=60
+y=0
+up_image=/title/focus_up.svg
+over_image=/title/focus_over.svg
+down_image=/title/focus_down.svg
+
+[ConfigButton]
+x=30
+y=0
+up_image=/title/config_up.svg
+over_image=/title/config_over.svg
+down_image=/title/config_down.svg
+
+; [QuitButton]
+; x=40
+; y=0
+; up_image=/title/quit_up.svg
+; over_image=/title/quit_over.svg
+; down_image=/title/quit_down.svg

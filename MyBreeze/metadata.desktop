@@ -1,0 +1,19 @@
+# [ContrastEffect]
+# contrast=0.2
+# enabled=true
+# intensity=2.0
+# saturation=1.7
+
+[Desktop Entry]
+X-KDE-PluginInfo-Author=Nikita
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=a
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3
+X-KDE-PluginInfo-Name=MyBreeze
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=b
+# X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled = true
